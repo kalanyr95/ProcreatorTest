@@ -1,0 +1,26 @@
+﻿[
+	{
+		"Prénom": "Abbas",
+		"Nom": " ",
+		"Sexe": "Mâle",
+		"Âge": "24",
+		"Fonction": "Loup-Garou errant"
+	},
+	{
+		"Prénom": "Aelynn",
+		"Nom": "Portecendres",
+		"Sexe": "Femelle",
+		"Âge": "17",
+		"Fonction": ""
+	},
+	{
+		"Prénom": "Aîné",
+		"Nom": "Jeress",
+		"Sexe": "Mâle",
+		"Âge": "27",
+		"Fonction": "Bandit"
+	},
+	{
+		"Prénom": ""
+	}
+]
